@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node ./server-error.js"
+    "start": "node ./server-error.js",
+    "start:system": "node ./system-error.js"
   },
   "keywords": [],
   "author": "",
